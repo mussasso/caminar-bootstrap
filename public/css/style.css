@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../images/bg.jpg);
+  margin: auto;
+}
+body #s1 {
+  padding: 0;
+}
+body #s2 {
+  background-color: #FFFFFF;
+  line-height: 3em;
+}
+body #s2 hr {
+  width: 10vw;
+  text-align: center;
+  margin: auto;
+}
+body #s2 p {
+  text-transform: uppercase;
+}
+body #s3 {
+  background-color: #F5F5F5;
+}
+
+/*# sourceMappingURL=style.css.map */
